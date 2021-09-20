@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MainApplication {
     public static void main(String[] args) {
         //尝试使用Git版本管理
-        System.out.println("开始运行SpringApplication");
+        System.out.println("远程库测试");
         SpringApplication.run(MainApplication.class,args);
     }
 }
