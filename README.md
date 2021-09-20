@@ -1,2 +1,2 @@
 # gitTest
-IDEA 集成git 测试文件
+idea集成git插件，进行版本控制。
